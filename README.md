@@ -26,5 +26,5 @@ Don't forget to follow [Contribution Guidelines](.github/contributing.md) 😃
 * Python
 
 ## Contact  
-* Discord Channel 🠮 [![Join the chat at https://discord.gg/uzXhZbVt](https://badges.gitter.im/Data-Structure-and-Algorithms-Nivedita/community.svg)](https://gitter.im/Data-Structure-and-Algorithms-Nivedita/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+* Discord Channel 🠮 [![Join the chat at https://discord.gg/uzXhZbVt](Discord)](https://discord.gg/uzXhZbVt)  
 * Project is maintained by 🠮 [ANNAM SAI MANOHAR](https://github.com/saimanoharhm)  
