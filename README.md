@@ -1,7 +1,7 @@
 <h1 align="center"> Code-Algo </h1>
              
-![GitHub open issues](https://github.com/saimanoharhm/Code-Algo/issues)
-![GitHub open pull requests](https://github.com/saimanoharhm/Code-Algo/pulls)
+![GitHub open issues](https://img.shields.io/github/issues-raw/saimanoharhm/Code-Algo?color=%23f&logo=Github)
+![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/saimanoharhm/Code-Algo/pulls?logo=Github)
 
 
 <br>
