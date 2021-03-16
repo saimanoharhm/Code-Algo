@@ -1,4 +1,4 @@
-# 🤝***First time contributing? We will help you out.*** 👍
+# 🤝***Are you contributing for first time contributing? We will help you out.*** 👍
 
 ![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
 
@@ -10,17 +10,17 @@ Refer to the following articles on the basics of Git and Github and can also con
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 
-***If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).***
+***If you don't have git on your machine, [install it](https://git-scm.com/downloads).***
 
 Thanks for taking the time to contribute! 🐱‍🏍  
-When contributing to this repository, please first discuss the change you wish to make via issue or any other method with the owner of this repository ([Nivedita Singh](https://github.com/Nivedita967)) before making a change.
+When contributing to this repository, please first discuss the change you wish to make via issue or any other method with the owner of this repository ([ANNAM SAI MANOHAR](https://github.com/saimanoharhm)) before making a change.
 
 ## 💥 How to Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the Existing [Issues](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/saimanoharhm/Code-Algo/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
@@ -28,23 +28,33 @@ When contributing to this repository, please first discuss the change you wish t
 
 ### For Contribution
 
-**1.** Fork [this](https://github.com/Nivedita967/Data-Structure-and-Algorithms) repository.
-Click on the <a href="https://github.com/Nivedita967/Data-Structure-and-Algorithms"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork [this](https://github.com/saimanoharhm/Code-Algo) repository.
+Click on the <a href="https://github.com/saimanoharhm/Code-Algo"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/Data-Structure-and-Algorithms
+git clone https://github.com/<your-github-username>/Code-Algo
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd Data-Structure-and-Algorithms
+cd Code-Algo
 ```
-**5.** Create a new branch:
+**4.** Add upstream 
+
 ```bash
-git checkout -b YourBranchName
+git remote add upstream
+```
+
+**5.** Create a new branch:
+
+```bash
+git branch YourBranchName
+
+git checkout YourBranchName
+
 ```
 
 **6.** Make changes in source code.
@@ -52,10 +62,10 @@ git checkout -b YourBranchName
 **7.** Stage your changes and commit
 
 ```bash
-git add .
+git add -A
 ```
 ```bash
-git commit -m "<your_commit_message>"
+git commit -a -m "<your_commit_message>"
 ```
 
 **8.** Push your local commits to the remote repo.
@@ -64,14 +74,14 @@ git commit -m "<your_commit_message>"
 git push origin YourBranchName
 ```
 ### For adding new Code  
-- Select any problem from any coding platform (leetcode, hackerrank, codechef). 💻  
+- Select any problem on your own or even from any coding platform (leetcode, hackerrank, codechef,greeksforgreeks). 💻  
 - Make sure the problem doesn't already exist in this repository or no one is working on that problem in the language you want to code! 😬                                                                           
 - Create a folder for the topic you wish to add code or if a folder already exists, add your code to it. 📁  
-- In the respective folder, add your code file with proper format (e.g. `Leetcode/Two Sum/Two Sum.java`)
+- In the respective folder, add your code file with proper format (e.g. `Hackerrank/Two Sum/Two Sum.c`)
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to [Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to [Code-Algo](https://github.com/saimanoharhm/Code-Algo) project.
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
 
@@ -88,6 +98,8 @@ git push origin YourBranchName
 - Wrap the body at 72 characters
 - Use the body to explain what, why, vs, and how
 - Reference issues and pull requests liberally after the first line
+- Use comments before the line of the code not beside the code and add where ever required not in the every line.
+- The code should not be copied from the internet.
 
 For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
 
@@ -98,7 +110,7 @@ For major changes, you are welcomed to open an issue  about what you would like 
 
 <p align = "center">
 
-<a href="https://github.com/muthuannamalai12"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+<a href="https://github.com/saimanoharhm/Code-Algo"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/saimanoharhm/Code-Algo)
 
 </p>
