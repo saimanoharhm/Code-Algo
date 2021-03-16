@@ -26,5 +26,5 @@ Don't forget to follow [Contribution Guidelines](.github/contributing.md) 😃
 * Python
 
 ## Contact  
-* Discord Channel 🠮 [![Join the chat at https://discord.gg/uzXhZbVt](Discord)](https://discord.gg/uzXhZbVt)  
+* Discord Channel 🠮 [![Join the chat at https://discord.gg/uzXhZbVt](https://discord.gg/uzXhZbVt)](Discord)  
 * Project is maintained by 🠮 [ANNAM SAI MANOHAR](https://github.com/saimanoharhm)  
