@@ -1,4 +1,4 @@
-# 🤝***Are you contributing for first time contributing? We will help you out.*** 👍
+# 🤝***Are you contributing for first time? We will help you out.*** 👍
 
 ![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
 
@@ -102,6 +102,10 @@ git push origin YourBranchName
 - The code should not be copied from the internet.
 
 For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
+
+To know more about the [Opensource](https://youtube.com/playlist?list=PLyzHIYrZBplqcJXQ0XWA4gRs0sdh6zWfD)
+For more clear idea about the [git commands](https://youtu.be/8pjxegUW7lQ)
+
 
 ## 💥 Issues:
 For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
