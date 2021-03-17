@@ -25,7 +25,8 @@ When contributing to this repository, please first discuss the change you wish t
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
-- 
+- Use a standard 4-space indentation
+- The code should not copied from the internet.
 
 ### For Contribution
 
