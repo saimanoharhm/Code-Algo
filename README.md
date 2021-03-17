@@ -35,6 +35,6 @@ Check out the [Code of conduct](code_of_coduct.md)
 
 ## Licence
 
-Check out the [LICENCE](LICENCE)
+Check out the [LICENCE](https://github.com/saimanoharhm/Code-Algo/blob/master/LICENSE)
 
 
