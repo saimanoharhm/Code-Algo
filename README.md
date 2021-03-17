@@ -17,7 +17,7 @@ This repository covers various practice problems of Arrays, Stacks, Queues, Tree
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <br>
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcomed!  
-Don't forget to follow [Contribution Guidelines](contribution_guidelines.md) 😃  
+Don't forget to follow [Contribution Guidelines](https://github.com/saimanoharhm/Code-Algo/blob/master/contribution_guidelines%20.md) 😃  
 
 ## Tech Stack  
 * C
@@ -31,7 +31,7 @@ Don't forget to follow [Contribution Guidelines](contribution_guidelines.md) �
 
 ## Code of conduct 
 
-Check out the [Code of conduct](code_of_coduct.md)
+Check out the [Code of conduct](https://github.com/saimanoharhm/Code-Algo/blob/master/code_of_conduct.md)
 
 ## Licence
 
