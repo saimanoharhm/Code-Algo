@@ -29,6 +29,10 @@ Don't forget to follow [Contribution Guidelines](Contribution_Guidelines.md) �
 * Discord Channel 🠮 [Discord](https://discord.gg/uzXhZbVt)  
 * Project is maintained by 🠮 [ANNAM SAI MANOHAR](https://github.com/saimanoharhm)  
 
+## Code of conduct 
+
+Check out the [Code of conduct](code_of_coduct.md)
+
 ## Licence
 
 Check out the [LICENCE](LICENCE)
