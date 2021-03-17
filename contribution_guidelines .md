@@ -25,6 +25,7 @@ When contributing to this repository, please first discuss the change you wish t
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
+- 
 
 ### For Contribution
 
@@ -78,6 +79,9 @@ git push origin YourBranchName
 - Make sure the problem doesn't already exist in this repository or no one is working on that problem in the language you want to code! 😬                                                                           
 - Create a folder for the topic you wish to add code or if a folder already exists, add your code to it. 📁  
 - In the respective folder, add your code file with proper format (e.g. `Hackerrank/Two Sum/Two Sum.c`)
+- Use comments before the line of the code not beside the code and add where ever required not in the every line.
+- The code should not be copied from the internet.
+- Use a standard 4-space indentation.
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
@@ -98,8 +102,6 @@ git push origin YourBranchName
 - Wrap the body at 72 characters
 - Use the body to explain what, why, vs, and how
 - Reference issues and pull requests liberally after the first line
-- Use comments before the line of the code not beside the code and add where ever required not in the every line.
-- The code should not be copied from the internet.
 
 For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
 
