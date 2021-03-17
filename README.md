@@ -19,7 +19,8 @@ This repository covers various practice problems of Arrays, Stacks, Queues, Tree
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcomed!  
 Don't forget to follow [Contribution Guidelines](https://github.com/saimanoharhm/Code-Algo/blob/master/contribution_guidelines%20.md) 😃  
 
-Don't forget to join the discord because all the conversation and doubts clarification realted to the project is happening on discord.
+Don't forget to join the discord because all the conversation and doubts clarification related to the project is going on discord.
+
 ## Tech Stack  
 * C
 * C++
