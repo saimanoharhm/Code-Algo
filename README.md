@@ -28,3 +28,8 @@ Don't forget to follow [Contribution Guidelines](Contribution_Guidelines.md) �
 ## Contact  
 * Discord Channel 🠮 [Discord](https://discord.gg/uzXhZbVt)  
 * Project is maintained by 🠮 [ANNAM SAI MANOHAR](https://github.com/saimanoharhm)  
+
+##Licence
+Check out the [LICENCE](LICENCE)
+
+
